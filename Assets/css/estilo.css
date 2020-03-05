@@ -1,0 +1,132 @@
+.fondo{
+	background-color: #003B74;
+	font-family: 'Open Sans'!important;
+}
+.letra{
+	font-family: 'Oswald'!important;
+	font-weight: bold;
+	font-size: 2.5rem;
+}
+.sub{
+	font-family: 'Open Sans'!important;
+	font-weight: bold;
+}
+.hr{
+	width: 50%;
+	background-color: #ffffff;
+}
+.titulo{
+	padding-top: 300px;
+	font-size: 4rem;
+}
+ .experiencia{
+ 	font-family: 'Oswald'!important;
+	font-weight: bold;
+	opacity: 100%;
+
+ }
+ .fuente{
+ 	font-family: 'Oswald'!important;
+	font-weight: bold;
+	font-size: 2rem;
+ }
+ .fuente2{
+ 	font-family: 'Oswald'!important;
+	font-weight: bold;
+	font-size: 2.5rem;
+
+ }
+ .parrafo{
+ 	font-family: 'Open Sans'!important;
+
+ }
+
+.ico{
+	border-color: : #003B74;
+	color: #003B74;
+}
+.section{
+	background-color: #003B74;
+
+}
+.miguel{
+	font-family: 'Oswald'!important;
+	font-weight: bold;
+	font-size: 3rem;
+	opacity: 100%;
+
+}
+.hr2{
+	background-color: #ffffff;
+	width: 15%;
+	padding: 0.4px;
+	margin-top: 2px;
+	opacity: 100%;
+}
+.hr3{
+	background-color: #000;
+	padding: 0.4px;
+	margin-top: 2px;
+	opacity: 100%;
+}
+.display-3{
+	font-family: 'Oswald'!important;
+	font-weight: bold;
+	opacity: 100%;
+
+}
+#Modal1{
+	font-family: 'Open Sans'!important;
+	font-weight: lighter;
+}
+#Modal2{
+	font-family: 'Open Sans'!important;
+	font-weight: lighter;
+}
+header{
+  background-image: url('../img/perfil2.JPG');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  padding-bottom: 2rem;
+  
+}
+h5{
+	font-family: 'Oswald'!important;
+	font-weight: lighter;
+}
+
+hr{
+	width: 20%;
+	background-color: #373A3C;
+	padding-top: auto;
+	margin-top: 10px;
+
+}
+/* Media Query Resoluciones */
+
+@media (max-width: 576px){
+header{
+	background-repeat: no-repeat;
+	background-position: center;
+
+
+	}
+	h3.experiencia{
+		font-size: 45px;
+	}
+	h2.display-3{
+		font-size: 40px;
+	}
+	div.col-md-4{
+		margin-top: 30px;
+	}
+	button.btn {
+    margin-top: -5rem;
+}
+	}
+@media (min-width: 992px){
+button.btn {
+    margin-top: -5rem;
+}
+}
